@@ -1,2 +1,3 @@
-# Hello-World
-A block of code that will input the string "Hello world" into the console.
+# My first repo
+
+This is my first repo. That is why I've called this repo "Hello World"!
